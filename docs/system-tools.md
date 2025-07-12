@@ -10,34 +10,35 @@
 
 ***
 
+
+* [AtlasOS](https://atlasos.net/) - Optimized Windows 10 and 11
 * 🌐 **[Awesome Windows 11](https://github.com/awesome-windows11/windows11)** - Windows 11 Resources
-* 🌐 **[PC-Optimization-Hub](https://github.com/BoringBoredom/PC-Optimization-Hub)** - System Optimization Resources
-* ↪️ **[Gaming Optimization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_optimization_tools)**
-* ⭐ **[PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)** - System Tools / [Search](https://github.com/lin-ycv/EverythingPowerToys) / [Plugins](https://github.com/hlaueriksson/awesome-powertoys-run-plugins) / [GitHub](https://github.com/microsoft/PowerToys/)
-* ⭐ **[Sysinternals](https://learn.microsoft.com/en-us/sysinternals/)** - Advanced System Tools / [Suite](https://apps.microsoft.com/store/detail/sysinternals-suite/9P7KNL5RWT25)
-* ⭐ **[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)**, [winfetch](https://github.com/lptstr/winfetch), [CPU Fetch](https://github.com/Dr-Noob/cpufetch), [Glow](https://github.com/turkaysoftware/glow) or [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/) - System Info Tools
-* ⭐ **[SuperF4](https://stefansundin.github.io/superf4/)** or [FKill](https://github.com/sindresorhus/fkill-cli) - Process Killers
-* ⭐ **[Bulk Crap Uninstaller](https://www.bcuninstaller.com/)**, [Revo Uninstaller](https://www.revouninstaller.com/products/revo-uninstaller-free/) or [GeekUninstaller](https://geekuninstaller.com/) - Bulk Uninstallation Tools
-* [VCRedist](https://github.com/abbodi1406/vcredist) - AIO Repack for Microsoft Visual C++ Redists
-* [Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide), [Microsoft Community](https://msft.chat/) / [Discord](https://discord.com/invite/microsoft) or [Pastas](https://rentry.org/pastas#guides) - Windows Guides
-* [NanaRun](https://github.com/M2Team/NanaRun) - System Admin Tools
 * [BleachBit](https://www.bleachbit.org/) - Clean System Storage
-* [PolicyPlus](https://github.com/Fleex255/PolicyPlus) - Local Group Policy Editor
-* [PowerPlanSwitcher](https://www.microsoft.com/en-us/p/powerplanswitcher/9nblggh556l3) - Quickly Change Power Schemes
-* [Scheduler](https://www.splinterware.com/products/scheduler.html) or [TaskRunner](https://www.keyefficiency.com/) - System Task Scheduler
-* [GhostBuster](https://bitbucket.org/wvd-vegt/ghostbuster/src/master/) or [Device Cleanup Tool](https://www.majorgeeks.com/files/details/device_cleanup_tool.html) - Remove Non-Present Devices
-* [Should I Remove It?](https://www.shouldiremoveit.com/) - Program Removal Guide
+* ⭐ **[Bulk Crap Uninstaller](https://www.bcuninstaller.com/)**, [GeekUninstaller](https://geekuninstaller.com/) or [Revo Uninstaller](https://www.revouninstaller.com/products/revo-uninstaller-free/) - Bulk Uninstallation Tools
+* ⭐ **[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)**, [CPU Fetch](https://github.com/Dr-Noob/cpufetch), [Glow](https://github.com/turkaysoftware/glow), [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/) or [winfetch](https://github.com/lptstr/winfetch) - System Info Tools
 * [CoreTemp](https://www.alcpu.com/CoreTemp/) or [System Informer](https://systeminformer.sourceforge.io/) - Process Monitors
-* [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) - Laptop CPU Monitor / Optimizer
-* [RegExp](https://github.com/zodiacon/TotalRegistry), [RegScanner](https://www.nirsoft.net/utils/regscanner.html), [ripgrep-all](https://github.com/phiresky/ripgrep-all) or [Registry-Finder](https://registry-finder.com/) - Registry Explorers / Scanners
-* [WinbIndex](https://winbindex.m417z.com/) - Windows System Files / Binaries
-* [OfflineInsiderEnroll](https://github.com/abbodi1406/offlineinsiderenroll) - Enable Windows Insider without Account
-* [WLSetup-All](https://rentry.co/FMHYBase64#wlsetup-all) - Windows Live Essentials 2012 Archive
-* [Rhasspy](https://rhasspy.readthedocs.io/en/latest/) - Voice Assistant
-* [OpenRecall](https://github.com/openrecall/openrecall) or [Windrecorder](https://github.com/yuka-friends/Windrecorder/) - Memory Search App / System Recorders
-* [Time.is](https://time.is/) - Check Accuracy of System Clock
+* [Device Cleanup Tool](https://www.majorgeeks.com/files/details/device_cleanup_tool.html) or [GhostBuster](https://bitbucket.org/wvd-vegt/ghostbuster/src/master/) - Remove Non-Present Devices
 * [G-Helper](https://github.com/seerge/g-helper) - Amoury Crate Replacement for ASUS Laptops
+* [Gaming Optimization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_optimization_tools)
 * [LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) - Lenovo Vantage Replacement
+* [Microsoft Community](https://msft.chat/) / [Discord](https://discord.com/invite/microsoft) or [Pastas](https://rentry.org/pastas#guides) - Windows Guides
+* [NanaRun](https://github.com/M2Team/NanaRun) - System Admin Tools
+* [OfflineInsiderEnroll](https://github.com/abbodi1406/offlineinsiderenroll) - Enable Windows Insider without Account
+* [OpenRecall](https://github.com/openrecall/openrecall) or [Windrecorder](https://github.com/yuka-friends/Windrecorder/) - Memory Search App / System Recorders
+* [PC-Optimization-Hub](https://github.com/BoringBoredom/PC-Optimization-Hub) - System Optimization Resources
+* [PolicyPlus](https://github.com/Fleex255/PolicyPlus) - Local Group Policy Editor
+* ⭐ **[PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)** - System Tools / [GitHub](https://github.com/microsoft/PowerToys/) / [Plugins](https://github.com/hlaueriksson/awesome-powertoys-run-plugins) / [Search](https://github.com/lin-ycv/EverythingPowerToys)
+* [PowerPlanSwitcher](https://www.microsoft.com/en-us/p/powerplanswitcher/9nblggh556l3) - Quickly Change Power Schemes
+* ⭐ **[RegExp](https://github.com/zodiacon/TotalRegistry)**, [RegScanner](https://www.nirsoft.net/utils/regscanner.html), [ripgrep-all](https://github.com/phiresky/ripgrep-all) or [Registry-Finder](https://registry-finder.com/) - Registry Explorers / Scanners
+* [Rhasspy](https://rhasspy.readthedocs.io/en/latest/) - Voice Assistant
+* ⭐ **[Scheduler](https://www.splinterware.com/products/scheduler.html)** or [TaskRunner](https://www.keyefficiency.com/) - System Task Scheduler
+* ⭐ **[SuperF4](https://stefansundin.github.io/superf4/)** or [FKill](https://github.com/sindresorhus/fkill-cli) - Process Killers
+* ⭐ **[Sysinternals](https://learn.microsoft.com/en-us/sysinternals/)** - Advanced System Tools / [Suite](https://apps.microsoft.com/store/detail/sysinternals-suite/9P7KNL5RWT25)
+* [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) - Laptop CPU Monitor / Optimizer
+* [Time.is](https://time.is/) - Check Accuracy of System Clock
+* [VCRedist](https://github.com/abbodi1406/vcredist) - AIO Repack for Microsoft Visual C++ Redists
+* [WLSetup-All](https://rentry.co/FMHYBase64#wlsetup-all) - Windows Live Essentials 2012 Archive
+* [WinbIndex](https://winbindex.m417z.com/) - Windows System Files / Binaries
 
 ***
 
